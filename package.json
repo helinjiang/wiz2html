@@ -1,0 +1,22 @@
+{
+  "name": "wiz2html",
+  "version": "0.0.1",
+  "private": true,
+  "hexo": {
+    "version": "3.1.1"
+  },
+  "scripts": {
+    "start": "node ./action"
+  },
+  "dependencies": {
+    "hexo": "^3.1.0",
+    "hexo-generator-archive": "^0.1.2",
+    "hexo-generator-category": "^0.1.2",
+    "hexo-generator-index": "^0.1.2",
+    "hexo-generator-tag": "^0.1.1",
+    "hexo-renderer-ejs": "^0.1.0",
+    "hexo-renderer-marked-enhanced": "^0.0.1",
+    "hexo-server": "^0.1.2",
+    "node-wiz-md": "^0.1.0"
+  }
+}
